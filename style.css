@@ -1,0 +1,65 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #faf8f5;
+    color: #222;
+}
+header, footer {
+    background: #1e1e1e;
+    color: white;
+    padding: 20px;
+}
+nav a {
+    color: white;
+    margin-right: 18px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 30px 20px;
+}
+.hero {
+    padding: 50px 0;
+}
+.button {
+    display: inline-block;
+    background: #7a4b3a;
+    color: white;
+    padding: 12px 18px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 24px;
+}
+.card {
+    background: white;
+    border-radius: 12px;
+    padding: 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.book-cover {
+    width: 100%;
+    max-height: 360px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.author-photo {
+    max-width: 260px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+.section-title {
+    margin-bottom: 18px;
+}
+.small-note {
+    color: #666;
+    font-style: italic;
+}
