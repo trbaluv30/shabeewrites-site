@@ -1,5 +1,5 @@
 SITE = {
-    "author_name": "ShaBee",
+    "author_name": "Sha Bee",
     "tagline": "Author, storyteller, and future podcast host.",
     "email": "hello@shabeewrites.com",
     "instagram": "https://www.instagram.com/shabee_novel_author/",
