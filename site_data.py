@@ -5,7 +5,7 @@ SITE = {
     "instagram": "https://www.instagram.com/shabee_novel_author/",
     "amazon_author_page": "https://shorturl.at/ZLYi4",
     "bio": """
-ShaBee (Shree Shabitha Balu Vignesh) is a passionate new author who recently discovered her love for inking her imagination. Drawn to romance, she delights in weaving heartfelt tales of two broken souls navigating the journey to love and healing. ShaBee firmly believes that everyone deserves a second chance at happiness, a belief that resonates through every story she creates. When not immersed in storytelling, ShaBee is a full-time public health physician working to elevate the quality of healthcare with her expertise and dedication.
+Sha Bee (Shree Shabitha Balu Vignesh) is a passionate new author who recently discovered her love for inking her imagination. Drawn to romance, she delights in weaving heartfelt tales of two broken souls navigating the journey to love and healing. ShaBee firmly believes that everyone deserves a second chance at happiness, a belief that resonates through every story she creates. When not immersed in storytelling, ShaBee is a full-time public health physician working to elevate the quality of healthcare with her expertise and dedication.
 """,
     "featured_book": {
            "title": "Love Once Forgotten",
